@@ -43,6 +43,10 @@ h3. Living Consultoria internal builds (2)
 
 The number 2 is reserved for Living Consultoria to publish their own builds.
 
+h3. Hugin & Munin internal builds (3)
+
+The number 3 is reserved for Hugin & Munin to publish their own builds.
+
 h2. NHibernate version
 
 To change Simple.Net NHibernate, please use the NHibernate fork located at
